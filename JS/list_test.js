@@ -28,16 +28,3 @@ class List {
     return this.elements.length;
     }
     }
-    
-    // Пример использования
-    const list = new List();
-    list.insert(1);
-    list.insert(2);
-    list.insert(3);
-    console.log(list.length()); // 3
-    
-    list.delete(2);
-    console.log(list.length()); // 2
-    
-    list.update(0, 10);
-    console.log(list.find(10)); // 0

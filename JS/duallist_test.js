@@ -71,15 +71,3 @@ class Node {
     return this.length;
     }
     }
-
-    // Пример использования
-    const list = new DoublyLinkedList();
-    list.insert(1);
-    list.insert(2);
-    list.insert(3);
-
-    console.log(list.find(2));
-    console.log(list.delete(2));
-
-    console.log(list.update(1, 100));
-    console.log(list.getLength());
