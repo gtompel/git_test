@@ -1,4 +1,4 @@
-first step: create a code.js server
+first step: create a Node.js server
 
 second step: enter the last name and link
 
