@@ -8,10 +8,17 @@
   "dependencies": {
     "cookie-parser": "^1.4.6",
     "debug": "~2.6.9",
-    "express": "^4.16.4",
+    "express": "^4.18.3",
     "http": "0.0.1-security",
     "http-errors": "^1.6.3",
     "jade": "~1.11.0",
-    "morgan": "^1.9.1"
-  }
+    "morgan": "^1.9.1",
+    "node": "^21.7.1",
+    "node.js": "^0.0.1-security"
+  },
+  "description": "first step: create a Node.js server",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
